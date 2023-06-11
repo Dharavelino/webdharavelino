@@ -7,9 +7,9 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Dhara Avelino-Alves
       image:
-        filename: hero-academic.png
+        filename: icon0.png
       cta:
         label: '**Get Started**'
         url: https://wowchemy.com/templates/
