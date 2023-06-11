@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: rose
+  theme_night: rose
+  font: rose
   font_size: L
 
 # SEO
@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'Estatística para todos.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
