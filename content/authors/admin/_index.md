@@ -4,10 +4,11 @@ role: Mestranda em Genética
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Genética
-  - Bioinformática
   - Bioestatística
-  - Esponjas
+  - Bioinformática
+  - Esponjas marinhas
+  - Aprendizado de máquina
+  - Genética
 social:
   - icon: envelope
     icon_pack: fas
@@ -35,11 +36,10 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Avelino-Alves
 highlight_name: true
-first_name: Alice
+first_name: Dhara
 email: ""
 ---
 Licenciada em Biologia pela Universidade Federal do Estado do Rio de Janeiro (UNIRIO) e, atualmente, mestranda no Programa de Pós-graduação em Genética da Universidade Federal do Rio de Janeiro (UFRJ). Dedico-me ao estudo de esponjas marinhas desde 2018, há 4 anos implemento o uso de técnicas de bioestatística e, mais recentemente, bioinformática às minhas pesquisas. Apaixonada por esponjas, R, machine learning e metagenômica, tenho como objetivo mostrar que a análise de dados no R é um recurso possível de ser aplicado por todos. 
 
-\
