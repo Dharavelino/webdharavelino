@@ -35,6 +35,11 @@ sections:
       title: Bibliografia
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    design:
+      background:
+        gradient_end: '#FCFCFC'
+        gradient_start: '#FCFCFC'
+        text_color_light: false
   - block: features
     content:
       title: Habilidades
