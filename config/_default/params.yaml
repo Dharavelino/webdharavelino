@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: webdharavelino
-  theme_night: webdharavelino
+  theme_day: Minimal
+  theme_night: Minimal
   font: rose
   font_size: L
 
