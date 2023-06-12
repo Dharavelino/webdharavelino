@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: mytheme
-  theme_night: webdharavelino
+  theme_night: mytheme
   font: rose
   font_size: L
 
