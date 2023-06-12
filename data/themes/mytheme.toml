@@ -5,12 +5,12 @@ name = "webdharavelino"
 light = true
 
 # Primary
-primary = "#d0d0d0"
+primary = "#912C58"
 
 # Menu
-menu_primary = "#fff"
+menu_primary = "#912C58"
 menu_text = "#7a8288"
-menu_text_active = "#5c6266"
+menu_text_active = "#912C58"
 menu_title = "#7a8288"
 
 # Home sections
