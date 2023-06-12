@@ -37,8 +37,8 @@ sections:
       username: admin
     design:
       background:
-        gradient_end: '#FCFCFC'
-        gradient_start: '#FCFCFC'
+        gradient_end: '#d0d0d0'
+        gradient_start: '#d0d0d0'
         text_color_light: false
   - block: features
     content:
@@ -128,6 +128,10 @@ sections:
                  
     design:
       columns: '2'
+      background:
+        gradient_end: '#d0d0d0'
+        gradient_start: '#d0d0d0'
+        text_color_light: false
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -194,6 +198,10 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+      background:
+        gradient_end: '#d0d0d0'
+        gradient_start: '#d0d0d0'
+        text_color_light: false
   - block: portfolio
     id: projects
     content:
@@ -229,6 +237,10 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+      background:
+        gradient_end: '#d0d0d0'
+        gradient_start: '#d0d0d0'
+        text_color_light: false
   - block: collection
     id: featured
     content:
@@ -254,6 +266,10 @@ sections:
     design:
       columns: '2'
       view: citation
+      background:
+        gradient_end: '#d0d0d0'
+        gradient_start: '#d0d0d0'
+        text_color_light: false
   - block: collection
     id: talks
     content:
@@ -269,6 +285,10 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+      background:
+        gradient_end: '#d0d0d0'
+        gradient_start: '#d0d0d0'
+        text_color_light: false
   - block: contact
     id: contact
     content:
