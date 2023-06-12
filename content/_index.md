@@ -129,8 +129,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_end: '#d0d0d0'
-        gradient_start: '#d0d0d0'
+        gradient_end: '#F5F5F5'
+        gradient_start: '#F5F5F5'
         text_color_light: false
   - block: accomplishments
     content:
@@ -199,8 +199,8 @@ sections:
       view: compact
       columns: '2'
       background:
-        gradient_end: '#d0d0d0'
-        gradient_start: '#d0d0d0'
+        gradient_end: '#F5F5F5'
+        gradient_start: '#F5F5F5'
         text_color_light: false
   - block: portfolio
     id: projects
@@ -238,8 +238,8 @@ sections:
     design:
       columns: '1'
       background:
-        gradient_end: '#d0d0d0'
-        gradient_start: '#d0d0d0'
+        gradient_end: '#F5F5F5'
+        gradient_start: '#F5F5F5'
         text_color_light: false
   - block: collection
     id: featured
@@ -267,8 +267,8 @@ sections:
       columns: '2'
       view: citation
       background:
-        gradient_end: '#d0d0d0'
-        gradient_start: '#d0d0d0'
+        gradient_end: '#F5F5F5'
+        gradient_start: '#F5F5F5'
         text_color_light: false
   - block: collection
     id: talks
@@ -286,8 +286,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_end: '#d0d0d0'
-        gradient_start: '#d0d0d0'
+        gradient_end: '#F5F5F5'
+        gradient_start: '#F5F5F5'
         text_color_light: false
   - block: contact
     id: contact
