@@ -63,7 +63,7 @@ sections:
         - title: Mestranda
           company: Laboratório de Sistemas de Engenharia de Saúde
           company_url: ''
-          company_logo: peb
+          company_logo: peblogo
           location: PEB COPPE UFRJ
           date_start: '2022-08-01'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Aluna de Iniciação Científica
           company: Laboratório de Biossistemática de Anfíbios
           company_url: ''
-          company_logo: org-x
+          company_logo: uniriologo
           location: UNIRIO
           date_start: '2020-08-01'
           date_end: '2021-08-01'
@@ -93,7 +93,7 @@ sections:
         - title: Aluna de Iniciação Científica
           company: Departamento de Métodos Quantitativos
           company_url: ''
-          company_logo: org-x
+          company_logo: uniriologo
           location: UNIRIO
           date_start: '2019-08-01'
           date_end: '2021-08-01'
@@ -108,7 +108,7 @@ sections:
         - title: Aluna de Iniciação Científica
           company: Laboratório de Taxonomia de Poríferos
           company_url: ''
-          company_logo: org-x
+          company_logo: mnlogo
           location: Museu Nacional UFRJ
           date_start: '2019-08-01'
           date_end: '2021-08-01'
