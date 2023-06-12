@@ -37,8 +37,8 @@ sections:
       username: admin
     design:
       background:
-        gradient_end: '#d0d0d0'
-        gradient_start: '#d0d0d0'
+        gradient_end: '#F5F5F5'
+        gradient_start: '#F5F5F5'
         text_color_light: false
   - block: features
     content:
