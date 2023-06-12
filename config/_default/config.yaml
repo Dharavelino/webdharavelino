@@ -81,7 +81,7 @@ minify:
 ## THEME
 ############################
 
-theme: "webdharavelino"  # Nome do tema "Strawberry"
+theme: "rose"  # Nome do tema "Strawberry"
 
 params:
   # Cores personalizadas
