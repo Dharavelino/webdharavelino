@@ -41,7 +41,7 @@ sections:
       items:
         - name: Bioestatística
           icon: chart-line
-          icon_pack: fab
+          icon_pack: fas
         - name: Bioinformática
           icon: laptop-code
           icon_pack: fas
