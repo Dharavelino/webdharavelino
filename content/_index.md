@@ -119,7 +119,8 @@ sections:
               * Curadoria de coleção líquida do Filo Porifera
               * Desenvolvimento de artes digitais voltadas para divulgação científica através do Software Adobe Photoshop
               * Elaboração de artigos e relatórios 
-              * Apresentação em congressos e seminários    
+              * Apresentação em congressos e seminários
+                 
     design:
       columns: '2'
   - block: accomplishments
