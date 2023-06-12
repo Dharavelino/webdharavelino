@@ -1,0 +1,18 @@
+# Theme metadata
+name = "webdharavelino"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#d0d0d0"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#7a8288"
+menu_text_active = "#5c6266"
+menu_title = "#7a8288"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
