@@ -73,21 +73,3 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
-
-# Configuration of Hugo
-# ...
-
-############################
-## THEME
-############################
-
-theme: "rose"  # Nome do tema "Strawberry"
-
-params:
-  # Cores personalizadas
-  primary: "#912C58"
-  menu_primary: "#912C58"
-  menu_text_active: "rgb(208, 255, 56)"
-  menu_title: "#fff"
-  home_section_odd: "#fff"
-  home_section_even: "#fff"
