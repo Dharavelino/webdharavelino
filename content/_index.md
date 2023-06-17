@@ -24,17 +24,17 @@ sections:
         <div class="mb-3"></div>
         <!--GitHub Button JS-->
         <script async defer src="https://buttons.github.io/buttons.js"></script>
+    design:
+      background:
+        gradient_end: '#FCFCFC'
+        gradient_start: '#FCFCFC'
+        text_color_light: false
   - block: about.biography
     id: about
     content:
       title: Bibliografia
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-    design:
-      background:
-        gradient_end: '#F5F5F5'
-        gradient_start: '#F5F5F5'
-        text_color_light: false
   - block: features
     content:
       title: Habilidades
