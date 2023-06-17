@@ -9,7 +9,7 @@ sections:
     content:
       title: Seja bem vindo(a)!
       image:
-        filename: icon2.png
+        filename: icon23.png
       cta:
         label: '**Acesse os materiais aqui**'
         url: https://main--hilarious-kitsune-6841ce.netlify.app/#project
