@@ -7,9 +7,9 @@ name = "Test"
 
   # Menu
   menu_primary = "#912C58"
-  menu_text = "#34495e"
-  menu_text_active = "#eaeaea"
-  menu_title = "#eaeaea"
+  menu_text = "#6e2c49"
+  menu_text_active = "#f7f7f7"
+  menu_title = "#f7f7f7"
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
@@ -17,7 +17,7 @@ name = "Test"
 
 [dark]
   # Primary
-  primary = "#bbdefb"
+  primary = "#912C58"
 
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+  link = "#912C58"
+  link_hover = "#912C58"
