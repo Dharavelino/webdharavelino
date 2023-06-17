@@ -24,11 +24,6 @@ sections:
         <div class="mb-3"></div>
         <!--GitHub Button JS-->
         <script async defer src="https://buttons.github.io/buttons.js"></script>
-    design:
-      background:
-        gradient_end: '#FCFCFC'
-        gradient_start: '#FCFCFC'
-        text_color_light: false
   - block: about.biography
     id: about
     content:
@@ -120,13 +115,9 @@ sections:
               * Desenvolvimento de artes digitais voltadas para divulgação científica através do Software Adobe Photoshop
               * Elaboração de artigos e relatórios 
               * Apresentação em congressos e seminários
-                 
+                
     design:
       columns: '2'
-      background:
-        gradient_end: '#F5F5F5'
-        gradient_start: '#F5F5F5'
-        text_color_light: false
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -193,10 +184,6 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-      background:
-        gradient_end: '#F5F5F5'
-        gradient_start: '#F5F5F5'
-        text_color_light: false
   - block: portfolio
     id: projects
     content:
@@ -232,10 +219,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-      background:
-        gradient_end: '#F5F5F5'
-        gradient_start: '#F5F5F5'
-        text_color_light: false
   - block: collection
     id: featured
     content:
@@ -261,10 +244,6 @@ sections:
     design:
       columns: '2'
       view: citation
-      background:
-        gradient_end: '#F5F5F5'
-        gradient_start: '#F5F5F5'
-        text_color_light: false
   - block: collection
     id: talks
     content:
@@ -280,10 +259,6 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
-      background:
-        gradient_end: '#F5F5F5'
-        gradient_start: '#F5F5F5'
-        text_color_light: false
   - block: contact
     id: contact
     content:
