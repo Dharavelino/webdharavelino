@@ -8,8 +8,8 @@ name = "Test"
   # Menu
   menu_primary = "#912C58"
   menu_text = "#34495e"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
+  menu_text_active = "#eaeaea"
+  menu_title = "#eaeaea"
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
