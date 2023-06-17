@@ -24,11 +24,6 @@ sections:
         <div class="mb-3"></div>
         <!--GitHub Button JS-->
         <script async defer src="https://buttons.github.io/buttons.js"></script>
-    design:
-      background:
-        gradient_end: '#FCFCFC'
-        gradient_start: '#FCFCFC'
-        text_color_light: false
   - block: about.biography
     id: about
     content:
