@@ -7,7 +7,7 @@ name = "Test"
 
   # Menu
   menu_primary = "#912C58"
-  menu_text = "#4e1e33"
+  menu_text = "#321421"
   menu_text_active = "#f7f7f7"
   menu_title = "#f7f7f7"
 
