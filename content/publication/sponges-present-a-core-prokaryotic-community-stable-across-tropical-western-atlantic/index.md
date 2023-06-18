@@ -1,7 +1,7 @@
 ---
 title: Sponges present a core prokaryotic community stable across Tropical
   Western Atlantic.
-subtitle: Science of The Total Environment
+subtitle: ""
 publication_types:
   - "2"
 authors:
@@ -15,6 +15,7 @@ authors:
   - EDUARDO ; THOMPSON
   - FABIANO
 doi: https://doi.org/10.1016/j.scitotenv.2022.155145
+publication: "*Science of The Total Environment*"
 abstract: Sponges are among the earliest lineages of metazoans, with first
   fossil records dated back to 890 million years ago. All sponge species present
   associations with microorganisms to some extension, which influence sponges'
