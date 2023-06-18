@@ -1,6 +1,6 @@
 ---
 title: Sponges present a core prokaryotic community stable across Tropical
-  Western Atlantic.
+  Western Atlantic
 subtitle: ""
 publication_types:
   - "2"
