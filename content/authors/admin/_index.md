@@ -28,7 +28,7 @@ social:
 organizations:
   - name: Universidade Federal do Rio de Janeiro
     url: ""
-formations:
+education:
   courses:
     - course: Licenciatura em Ciências Biológicas
       institution: Universidade Federal do Estado do Rio de Janeiro
