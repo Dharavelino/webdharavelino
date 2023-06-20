@@ -3,7 +3,7 @@ title: Dhara Avelino-Alves
 role: Mestranda em Genética
 avatar_filename: avatar.jpg
 bio: ""
-interests:
+Interesses:
   - Bioestatística
   - Bioinformática
   - Esponjas marinhas
@@ -28,7 +28,7 @@ social:
 organizations:
   - name: Universidade Federal do Rio de Janeiro
     url: ""
-education:
+Formação:
   courses:
     - course: Licenciatura em Ciências Biológicas
       institution: Universidade Federal do Estado do Rio de Janeiro
