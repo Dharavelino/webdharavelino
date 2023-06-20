@@ -131,29 +131,29 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: ''
-          date_end: '2018-12'
-          date_start: '2011-03'
+        - certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2021-01-25'
           description: ''
-          organization: Wizard
-          organization_url: https://www.wizard.com.br
-          title: Pearson English International Certificate
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
           url: ''
-        - certificate_url: ''
-          date_end: '2022-09'
-          date_start: '2022-08'
+        - certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          organization: edX
+          organization_url: https://www.edx.org
+          title: Blockchain Fundamentals
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
           description: ''
-          organization: Escola Nacional de Administração Pública
-          organization_url: https://www.escolavirtual.gov.br/
-          title: Análise de dados - Fundamentos 
-          url: https://www.escolavirtual.gov.br/programa/84
-        - certificate_url: '' 
-          date_end: '2021-04'
-          date_start: ''
-          description: ''
-          organization: IELTS
-          organization_url: https://www.ielts.org/
-          title: IELTS Academic B2
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Object-Oriented Programming in R'
           url: ''
     design:
       columns: '2'
