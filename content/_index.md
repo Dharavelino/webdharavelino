@@ -199,11 +199,11 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: All
+        - name: Todos
           tag: '*'
-        - name: Deep Learning
+        - name: Bioestatística
           tag: Deep Learning
-        - name: Other
+        - name: Bioinformática
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -247,7 +247,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Apresentações
       filters:
         folders:
           - event
@@ -257,12 +257,12 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contato
       subtitle:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: dharaavelino@gmail.com
       phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
