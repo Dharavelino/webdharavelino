@@ -271,8 +271,8 @@ sections:
         country: Brazil
         country_code: BR
       office_hours:
-        - 'Segunda-feira 09:00 to 17:00'
-        - 'Sexta-feira 09:00 to 17:00'
+        - 'Segunda-feira 09:00 às 17:00'
+        - 'Sexta-feira 09:00 às 17:00'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
