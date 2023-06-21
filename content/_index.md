@@ -244,7 +244,7 @@ sections:
     design:
       columns: '2'
       view: citation
-   - block: collection
+  - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
