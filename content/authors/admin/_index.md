@@ -3,8 +3,7 @@ title: Dhara Avelino-Alves
 role: Mestranda em Genética
 avatar_filename: avatar.jpg
 bio: ""
-interests:
- title: Interesses
+interesses:
   - Bioestatística
   - Bioinformática
   - Esponjas marinhas
