@@ -53,6 +53,8 @@ abstract: >+
   of this reef, and urging the inclusion of local beachrock fringing reefs in a
   more holistic conservation strategy at Costa do Descobrimento.
 
+  {style="text-align: justify;"}
+
 draft: false
 featured: false
 image:
