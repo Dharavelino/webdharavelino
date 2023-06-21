@@ -16,8 +16,9 @@ authors:
   - FABIANO
 doi: https://doi.org/10.1016/j.scitotenv.2022.155145
 publication: "*Science of The Total Environment*"
-abstract: Sponges are among the earliest lineages of metazoans, with first
-  fossil records dated back to 890 million years ago. All sponge species present
+abstract: >-
+  Sponges are among the earliest lineages of metazoans, with first fossil
+  records dated back to 890 million years ago. All sponge species present
   associations with microorganisms to some extension, which influence sponges'
   survival and adaptation. Sponge species can be divided into two categories,
   Low Microbial Abundance and High Microbial Abundance, depending on the
@@ -42,6 +43,8 @@ abstract: Sponges are among the earliest lineages of metazoans, with first
   biogeographic filter, the Amazon River Mouth, in spite of the significant
   differences found among transient prokaryotic communities of both sponge
   species.
+
+  {style="text-align: justify;"}
 draft: false
 featured: false
 image:
