@@ -18,12 +18,6 @@ featured: false
 authors: []
 url_video: ""
 url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
 links:
   - url: https://www.instagram.com/semanabiounirio/
     icon_pack: fab
