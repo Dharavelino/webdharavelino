@@ -26,7 +26,7 @@ address:
   country: United States
 links:
   - url: https://www.instagram.com/semanabiounirio/
-    icon_pack: ai
+    icon_pack: fab
     icon: instagram
 publishDate: 2023-07-03T23:18:43.839Z
 tags: []
@@ -35,7 +35,7 @@ projects:
 image:
   caption: ""
   focal_point: Right
-  filename: msg-445063497-160214.jpg
+  filename: featured.jpg
 url_code: ""
 ---
 
