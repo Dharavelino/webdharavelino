@@ -220,7 +220,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id:featured
+    id: featured
     content:
       title: Publicações
       text: |-
