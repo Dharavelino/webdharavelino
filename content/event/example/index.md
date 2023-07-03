@@ -5,7 +5,7 @@ abstract: >
 
   {style="text-align: justify;"}
 slides: example
-url_pdf: "https://drive.google.com/file/d/1rZ4sNHqZGZllX5PyVcNxNJUXhAaJqfkm/view?usp=drive_link"
+url_pdf: https://drive.google.com/file/d/1rZ4sNHqZGZllX5PyVcNxNJUXhAaJqfkm/view?usp=drive_link
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: "Introdução à análise e visualização de dados através do Software R "
 location: Universidade Federal do Estado do Rio de Janeiro - UNIRIO
@@ -17,7 +17,7 @@ event_url: https://sbibio.wixsite.com/xvi-semana-de-biolog
 featured: false
 authors: []
 url_video: ""
-url_slides: "https://drive.google.com/file/d/1WCclUU3_aUIGv0qqybOySUmfyUVq4zq-/view?usp=drive_link"
+url_slides: https://drive.google.com/file/d/1WCclUU3_aUIGv0qqybOySUmfyUVq4zq-/view?usp=drive_link
 links:
   - url: https://www.instagram.com/semanabiounirio/
     icon_pack: fab
@@ -32,3 +32,4 @@ image:
   filename: featured.jpg
 url_code: ""
 ---
+E﻿m breve mais materiais serão disponibilizados na seção de Projetos -> Bioestatística.
