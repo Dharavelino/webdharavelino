@@ -202,9 +202,9 @@ sections:
         - name: Todos
           tag: '*'
         - name: Bioestatística
-          tag: Deep Learning
+          tag: Bioestatística
         - name: Bioinformática
-          tag: Demo
+          tag: Bioinformática
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
