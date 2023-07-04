@@ -12,7 +12,7 @@ sections:
         filename: icon23.png
       cta:
         label: '**Acesse os materiais aqui**'
-        url: https://main--hilarious-kitsune-6841ce.netlify.app/#project
+        url: https://main--hilarious-kitsune-6841ce.netlify.app/#projects
       cta_alt:
         label: Entre em contato
         url: https://main--hilarious-kitsune-6841ce.netlify.app/#contact
