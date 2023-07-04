@@ -12,7 +12,7 @@ external_link: ""
 links:
   - url: https://drive.google.com/file/d/1-MBFpL4gzDMAGNP_cS0RUgt9prDl6qWs/view?usp=drive_link
     name: HTML com o tutorial
-    icon_pack: far
+    icon_pack: fas
     icon: code
 image:
   caption: <a href="https://storyset.com/communication">Communication
