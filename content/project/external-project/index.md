@@ -1,11 +1,8 @@
 ---
 title: Tutorial de Linux
 subtitle: ""
-date: 2016-04-27T00:00:00Z
-summary: Dando início ao projeto que visa facilitar a tão difícil tarefa de
-  utilizar pela primeira vez ferramentas de bioinformática, compartilho um
-  simples tutorial de Linux e também de um programa para pré-processamento de
-  dados genéticos.
+date: 2016-04-27T00:00:00.000Z
+summary: T﻿e ajudo a dar os primeiros passos no terminal do Linux.
 tags:
   - Demo
 external_link: ""
@@ -20,3 +17,6 @@ image:
   focal_point: Smart
   filename: featured.png
 ---
+Dando início ao projeto que visa facilitar a tão difícil tarefa de utilizar pela primeira vez ferramentas de bioinformática, compartilho um simples tutorial de Linux e também de um programa para pré-processamento de dados genéticos.  
+
+ {style="text-align: justify;"}
