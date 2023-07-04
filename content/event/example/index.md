@@ -4,7 +4,7 @@ abstract: >
   dados através do Software R” na XVI Semana de Biologia UNIRIO.
 slides: ""
 url_pdf: https://drive.google.com/file/d/1rZ4sNHqZGZllX5PyVcNxNJUXhAaJqfkm/view?usp=drive_link
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Acesse os materiais do minicurso!
 title: "Introdução à análise e visualização de dados através do Software R "
 location: Universidade Federal do Estado do Rio de Janeiro - UNIRIO
 date: 2023-04-11T21:00:00.000Z
