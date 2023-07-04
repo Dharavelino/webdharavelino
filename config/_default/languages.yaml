@@ -31,10 +31,10 @@ en:
       weight: 4
       - name: Apresentações
       url: '#talks'
-       weight: 50
+       weight: 5
       - name: Contact
       url: '#contact'
-      weight: 5
+      weight: 6
 
 
 
