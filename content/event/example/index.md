@@ -23,7 +23,7 @@ links:
 publishDate: 2023-07-03T23:18:43.839Z
 tags: []
 projects:
-  - example
+  - Bioestatística
 image:
   caption: ""
   focal_point: Right
