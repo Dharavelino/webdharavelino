@@ -4,7 +4,6 @@ role: Mestranda em Genética
 avatar_filename: avatar.jpg
 bio: ""
 interests:
- title: teste
   - Bioestatística
   - Bioinformática
   - Esponjas marinhas
