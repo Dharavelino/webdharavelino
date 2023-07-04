@@ -8,7 +8,12 @@ date: 2016-04-27T00:00:00Z
 summary: ""
 tags:
   - Demo
-external_link: https://drive.google.com/file/d/1-MBFpL4gzDMAGNP_cS0RUgt9prDl6qWs/view?usp=drive_link
+external_link: ""
+links:
+  - url: https://drive.google.com/file/d/1-MBFpL4gzDMAGNP_cS0RUgt9prDl6qWs/view?usp=drive_link
+    name: HTML com o tutorial
+    icon_pack: far
+    icon: code
 image:
   caption: <a href="https://storyset.com/communication">Communication
     illustrations by Storyset</a>
