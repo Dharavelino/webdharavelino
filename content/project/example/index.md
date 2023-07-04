@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: ""
 url_pdf: ""
 summary: E﻿xplore seus dados e faça você mesmo seus gráficos.
 url_video: ""
