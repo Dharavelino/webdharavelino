@@ -12,10 +12,10 @@ sections:
         filename: icon23.png
       cta:
         label: '**Acesse os materiais aqui**'
-        url: https://main--hilarious-kitsune-6841ce.netlify.app/#projects
+        url: https://dharaavelinoalves.netlify.app/#projects
       cta_alt:
         label: Entre em contato
-        url: https://main--hilarious-kitsune-6841ce.netlify.app/#contact
+        url: https://dharaavelinoalves.netlify.app/#contact
       text: |-
         Este é um espaço onde compartilho um pouco sobre minhas pesquisas, scripts e tudo que envolve ciência, bioestatística e bioinformática.
         {style="text-align: justify;"}
