@@ -4,7 +4,7 @@ subtitle: ""
 date: 2016-04-27T00:00:00.000Z
 summary: T﻿e ajudo a dar os primeiros passos no terminal do Linux.
 tags:
-  - Demo
+  - Bioinformática
 external_link: ""
 links:
   - url: https://drive.google.com/file/d/1-MBFpL4gzDMAGNP_cS0RUgt9prDl6qWs/view?usp=drive_link
