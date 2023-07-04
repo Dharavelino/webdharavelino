@@ -65,8 +65,8 @@ sections:
           description: |2-
               Responsabilidades:
 
-              * Processamento de dados metagenômicos
-              * Análise bioestatística 
+              * Processamento de dados ômicos, com ênfase em metagenômica
+              * Análise inteligente de dados 
               * Desenvolvimento de modelos para predição gênica
               * Elaboração de artigos e relatórios 
               * Apresentação em congressos e seminários
