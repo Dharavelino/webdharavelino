@@ -2,8 +2,6 @@
 abstract: >
   Material apresentado no minicurso "Introdução à análise e visualização de
   dados através do Software R” na XVI Semana de Biologia UNIRIO.
-
-  {style="text-align: justify;"}
 slides: ""
 url_pdf: https://drive.google.com/file/d/1rZ4sNHqZGZllX5PyVcNxNJUXhAaJqfkm/view?usp=drive_link
 summary: An example talk using Wowchemy's Markdown slides feature.
