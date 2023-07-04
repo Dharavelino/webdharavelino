@@ -5,7 +5,7 @@ summary: E﻿xplore seus dados e faça você mesmo seus gráficos.
 url_video: ""
 date: 2016-04-27T00:00:00Z
 external_link: ""
-url_slides: ""
+url_slides: https://drive.google.com/file/d/1rZ4sNHqZGZllX5PyVcNxNJUXhAaJqfkm/view?usp=drive_link
 title: Gráficos para Estatística Univariada
 tags:
   - Bioestatística
