@@ -18,7 +18,7 @@ sections:
         url: https://dharaavelinoalves.netlify.app/#contact
       text: |-
         Compartilho neste espaço um pouco sobre minhas pesquisas, scripts e tudo que envolve ciência, bioestatística e bioinformática.
-    Aqui, você encontrará informações e insights relacionados ao fascinante mundo da ciência, bem como ferramentas e técnicas essenciais nas áreas de bioestatística e bioinformática.
+        Aqui, você encontrará informações e insights relacionados ao fascinante mundo da ciência, bem como ferramentas e técnicas essenciais nas áreas de       bioestatística e bioinformática.
         {style="text-align: justify;"}
 
         <!--Custom spacing-->
