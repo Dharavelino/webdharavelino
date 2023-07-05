@@ -23,6 +23,7 @@ Esponjas (Filo: Porifera) apresentam associações com microrganismos e, depende
 {style="text-align: justify;"}
 
 Referências Bibliográficas
+
 Hentschel, U., Fieseler, L., Wehrl, M., Gernet, C., Steinert, M., Hacker, J. & Horn, M. (2003). Microbial Diversity of Marine Sponges. In: Müller W.E.G. Sponges (Porifera). Progress in Molecular and Subcelular Biology. Springer, Berlin, Heidelberg. 27, 59–88.
 Leal, C. V., Avelino-Alves, D., Salazar, V., Omachi, C., Thompson, C., Berlinck, R. G., Hajdu, E. & Thompson, F. (2022). Sponges present a core prokaryotic community stable across Tropical Western Atlantic. Science of The Total Environment, 835, 155145.
 Seleghim M.H.R., Lira S.P., Kossuga M.H., Batista T., Berlinck R.G.S., Hajdu E., Muricy G., Rocha R.M., Nascimento G.G.F., Silva M., Pimenta E.F., Thiemann O.H., Oliva G., Cavalcanti B.C., Pessoa C., Moraes M.O., Galetti F.C.S., Silva 10 C.L., Souza A.O. & Peixinho S.(2007) Antibiotic, cytotoxic and enzyme inhibitory activity of crude extracts from Brazilian marine invertebrates. Revista Brasileira de Farmacognosia 17(3), 287-318
