@@ -3,38 +3,38 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-pt:
-  languageCode: pt
+en:
+  languageCode: en
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/pt
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-en:
-  languageCode: en-us
-  contentDir: content/en
-  title: Dhara Avelino-Alves
-  params:
-    description: Statistics for everyone
-  menu:
-    main:
-      - name: Home
-      url: '#about'
-      weight: 1
-      - name: Posts
-      url: '#posts'
-      weight: 2
-       - name: Projects
-      url: '#projects'
-      weight: 3
-       - name: Publications
-      url: '#featured'
-      weight: 4
-      - name: Apresentações
-      url: '#talks'
-       weight: 5
-      - name: Contact
-      url: '#contact'
-      weight: 6
+#en:
+#  languageCode: en-us
+#  contentDir: content/en
+#  title: Dhara Avelino-Alves
+#  params:
+#    description: Statistics for everyone
+#  menu:
+#    main:
+#      - name: Home
+#     url: '#about'
+#     weight: 1
+#     - name: Posts
+#     url: '#posts'
+#      weight: 2
+#       - name: Projects
+#      url: '#projects'
+#      weight: 3
+#       - name: Publications
+#      url: '#featured'
+#      weight: 4
+#      - name: Apresentações
+#      url: '#talks'
+#       weight: 5
+#      - name: Contact
+#      url: '#contact'
+#      weight: 6
 
 
 
