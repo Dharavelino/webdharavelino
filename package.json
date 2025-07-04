@@ -1,0 +1,23 @@
+{
+  "name": "meu-site",
+  "version": "1.0.0",
+  "description": "Site pessoal de Dhara",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-bootstrap": "^2.10.2",
+    "react-scripts": "5.0.1"
+  }
+}
+
+
+
+
+
+
+
+Adiciona package.json com react-bootstrap
