@@ -99,7 +99,7 @@ sections:
         - title: Aluna de Iniciação Científica
           company: Laboratório de Biossistemática de Anfíbios
           company_url: ''
-          company_logo: org-x
+          company_logo: uniriologo
           location: UNIRIO
           date_start: '2020-08-01'
           date_end: '2021-08-01'
@@ -109,6 +109,36 @@ sections:
               * Classificação de anuros através de sílabas de vocalização
               * Análise bioestatística 
               * Desenvolvimento de modelos de aprendizado de máquina 
+              * Elaboração de artigos e relatórios 
+              * Apresentação em congressos e seminários
+        - title: Aluna de Iniciação Científica
+          company: Departamento de Métodos Quantitativos
+          company_url: ''
+          company_logo: uniriologo
+          location: UNIRIO
+          date_start: '2019-08-01'
+          date_end: '2021-08-01'
+          description: |2-
+              Responsabilidades:
+
+              * Desenvolvimento de abordagens estatísticas utilizando o Software R 
+              * Análise bioestatística 
+              * Desenvolvimento de modelos de aprendizado de máquina 
+              * Elaboração de artigos e relatórios 
+              * Apresentação em congressos e seminários
+        - title: Aluna de Iniciação Científica
+          company: Laboratório de Taxonomia de Poríferos
+          company_url: ''
+          company_logo: mnlogo
+          location: Museu Nacional UFRJ
+          date_start: '2019-08-01'
+          date_end: '2021-08-01'
+          description: |2-
+              Responsabilidades:
+
+              * Desenvolvimento de pesquisa utilizando caracteres morfológicos, moleculares e técnicas bioestatísticas para a classificação taxonômica de esponjas marinhas
+              * Curadoria de coleção líquida do Filo Porifera
+              * Desenvolvimento de artes digitais voltadas para divulgação científica através do Software Adobe Photoshop
               * Elaboração de artigos e relatórios 
               * Apresentação em congressos e seminários
     design:
