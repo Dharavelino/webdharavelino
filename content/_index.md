@@ -7,77 +7,99 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Seja bem vindo(a)!
+      title: Seja bem-vindo(a)!
       image:
-        filename: icon23.png
+        filename: icon2.png
       cta:
         label: '**Acesse os materiais aqui**'
-        url: https://dharaavelinoalves.netlify.app/#projects
+        url: https://dharavelinoalves.netlify.app/#project
       cta_alt:
         label: Entre em contato
-        url: https://dharaavelinoalves.netlify.app/#contact
+        url: https://dharavelinoalves.netlify.app/#contact
       text: |-
-        Compartilho neste espaço um pouco sobre minhas pesquisas, scripts e tudo que envolve ciência, bioestatística e bioinformática.
-        {style="text-align: justify;"}
-
-    
-        Aqui, você encontrará informações e insights relacionados ao fascinante mundo da ciência, bem como ferramentas e técnicas essenciais nas áreas de       bioestatística e bioinformática.
+        Este é um espaço onde compartilho um pouco sobre minhas pesquisas, scripts e tudo que envolve ciência, bioestatística e bioinformática.
         {style="text-align: justify;"}
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
         <!--GitHub Button JS-->
         <script async defer src="https://buttons.github.io/buttons.js"></script>
-  - block: about.biography
+    design:
+      background:
+        gradient_end: '#ffffff'
+        gradient_start: '#ffffff'
+        text_color_light: false
+  - block: about.avatar
     id: about
     content:
-      title: Bibliografia
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      # Override your bio text from `authors/admin/_index.md`?
+      text:
   - block: features
     content:
       title: Habilidades
       items:
         - name: Bioestatística
+          description: 
           icon: chart-line
           icon_pack: fas
         - name: Bioinformática
+          description: 
           icon: laptop-code
           icon_pack: fas
         - name: Genética
+          description: 
           icon: dna
           icon_pack: fas
   - block: experience
     content:
-      title: Experiência
+      title: Experiencia
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Experiences.
-      #   Add/remove as many `experience` items below as you like.
+      #   Add/remove as many `experience` items below as you like. 
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Mestranda
+        - title: Pesquisadora Nível Doutorado
           company: Laboratório de Sistemas de Engenharia de Saúde
           company_url: ''
-          company_logo: peblogo
+          company_logo: peb
+          location: PEB COPPE UFRJ
+          date_start: '2024-08-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Processamento de dados metagenômicos
+              * Análise bioestatística 
+              * Desenvolvimento de modelos de aprendizado de máquina para predição gênica
+              * Identificação de genes de interesse biotecnológico e farmacológico
+              * Elaboração de artigos e relatórios 
+              * Apresentação em congressos e seminários
+        - title: Pesquisadora Nível Mestrado
+          company: Laboratório de Sistemas de Engenharia de Saúde
+          company_url: ''
+          company_logo: peb
           location: PEB COPPE UFRJ
           date_start: '2022-08-01'
-          date_end: ''
+          date_end: '2024-07-26'
           description: |2-
               Responsabilidades:
 
-              * Processamento de dados ômicos, com ênfase em metagenômica
-              * Análise inteligente de dados 
-              * Desenvolvimento de modelos para predição gênica
+              * Processamento de dados metagenômicos
+              * Análise bioestatística 
+              * Desenvolvimento de modelos de aprendizado de máquina para para predição gênica
               * Elaboração de artigos e relatórios 
               * Apresentação em congressos e seminários
+
         - title: Aluna de Iniciação Científica
           company: Laboratório de Biossistemática de Anfíbios
           company_url: ''
-          company_logo: uniriologo
+          company_logo: org-x
           location: UNIRIO
           date_start: '2020-08-01'
           date_end: '2021-08-01'
@@ -89,43 +111,51 @@ sections:
               * Desenvolvimento de modelos de aprendizado de máquina 
               * Elaboração de artigos e relatórios 
               * Apresentação em congressos e seminários
-        - title: Aluna de Iniciação Científica
-          company: Departamento de Métodos Quantitativos
-          company_url: ''
-          company_logo: uniriologo
-          location: UNIRIO
-          date_start: '2019-08-01'
-          date_end: '2021-08-01'
-          description: |2-
-              Responsabilidades:
-
-              * Desenvolvimento de abordagens estatísticas utilizando o Software R 
-              * Análise bioestatística 
-              * Desenvolvimento de modelos de aprendizado de máquina 
-              * Elaboração de artigos e relatórios 
-              * Apresentação em congressos e seminários
-        - title: Aluna de Iniciação Científica
-          company: Laboratório de Taxonomia de Poríferos
-          company_url: ''
-          company_logo: mnlogo
-          location: Museu Nacional UFRJ
-          date_start: '2019-08-01'
-          date_end: '2021-08-01'
-          description: |2-
-              Responsabilidades:
-
-              * Desenvolvimento de pesquisa utilizando caracteres morfológicos, moleculares e técnicas bioestatísticas para a classificação taxonômica de esponjas marinhas
-              * Curadoria de coleção líquida do Filo Porifera
-              * Desenvolvimento de artes digitais voltadas para divulgação científica através do Software Adobe Photoshop
-              * Elaboração de artigos e relatórios 
-              * Apresentação em congressos e seminários
-                
+    design:
+      columns: '2'
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
+          url: ''
+        - certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          organization: edX
+          organization_url: https://www.edx.org
+          title: Blockchain Fundamentals
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: ''
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Object-Oriented Programming in R'
+          url: ''
     design:
       columns: '2'
   - block: collection
     id: posts
     content:
-      title: Pesquisas
+      title: Recent Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -152,7 +182,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projetos
+      title: Projects
       filters:
         folders:
           - project
@@ -164,12 +194,12 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: Todos
+        - name: All
           tag: '*'
-        - name: Bioestatística
-          tag: Bioestatística
-        - name: Bioinformática
-          tag: Bioinformática
+        - name: Deep Learning
+          tag: Deep Learning
+        - name: Other
+          tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -178,7 +208,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Galeria
+      title: Gallery
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -187,7 +217,17 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Publicações
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
+    content:
+      title: Recent Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -202,32 +242,53 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Apresentações
+      title: Recent & Upcoming Talks
       filters:
         folders:
           - event
     design:
       columns: '2'
       view: compact
+  - block: tag_cloud
+    content:
+      title: Popular Topics
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
-      title: Contato
+      title: Contact
       subtitle:
       text: |-
-        Entre em contato comigo.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: dharaavelino@gmail.com
-      appointment_url: 'https://calendly.com/dharaavelinoalves'
+      email: test@example.org
+      phone: 888 888 88 88
+      appointment_url: 'https://calendly.com'
       address:
-        street: Av. Horácio Macedo 2030, Centro de Tecnologia, COPPE/UFRJ, Bloco H, 3° andar UFRJ - Ilha do Fundão
-        city: Rio de Janeiro
-        postcode: '21941-914'
-        country: Brazil
-        country_code: BR
+        street: 450 Serra Mall
+        city: Stanford
+        region: CA
+        postcode: '94305'
+        country: United States
+        country_code: US
+      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Segunda-feira 09:00 às 17:00'
-        - 'Sexta-feira 09:00 às 17:00'
+        - 'Monday 10:00 to 13:00'
+        - 'Wednesday 09:00 to 10:00'
+      contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: DM Me
+          link: 'https://twitter.com/Twitter'
+        - icon: skype
+          icon_pack: fab
+          name: Skype Me
+          link: 'skype:echo123?call'
+        - icon: video
+          icon_pack: fas
+          name: Zoom Me
+          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
@@ -241,3 +302,4 @@ sections:
     design:
       columns: '2'
 ---
+
